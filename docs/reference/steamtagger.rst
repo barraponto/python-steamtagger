@@ -1,0 +1,5 @@
+steamtagger
+=============================
+
+.. automodule:: steamtagger
+    :members:
